@@ -1,0 +1,1 @@
+Practice streamlit apps from Delta Analytics streamlit workshop
